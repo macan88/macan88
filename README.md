@@ -13,12 +13,12 @@
     <b>Blockchain Builder • DeFi Engineer • Security & Infrastructure</b>
   </p>
 
-  <p>
-    <i>
-      Membangun sistem blockchain, pembenahan sistem perbankan, maintenance infrastruktur,
-      firewall security, DEX/DeFi, dan special smart contract.
-    </i>
-  </p>
+<p>
+  <i>
+    Building blockchain systems, improving banking systems, infrastructure maintenance,
+    firewall security, DEX/DeFi, and specialized smart contracts.
+  </i>
+</p>
 
   <p>
     <img src="https://img.shields.io/badge/🇮🇩%20INDONESIA-PROUD%20BUILDER-EA4335?style=for-the-badge" alt="Indonesia Builder" />
