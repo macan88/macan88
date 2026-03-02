@@ -55,6 +55,42 @@ I build systems that are:
 
 ---
 
+## 👛 Wallets
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/EVM%20Wallet-BASE%20%7C%20BSC%20%7C%20ETH-111827?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM Wallet" />
+
+  <p>
+    <code>0xd95f60C1d395f15fba3C8d19d7BA4b8e5D2450bb</code>
+  </p>
+
+  <p>
+    🔎 Explorer Quick Links:
+    <a href="https://etherscan.io/address/0xd95f60C1d395f15fba3C8d19d7BA4b8e5D2450bb">Etherscan</a>
+    •
+    <a href="https://bscscan.com/address/0xd95f60C1d395f15fba3C8d19d7BA4b8e5D2450bb">BscScan</a>
+    •
+    <a href="https://basescan.org/address/0xd95f60C1d395f15fba3C8d19d7BA4b8e5D2450bb">BaseScan</a>
+  </p>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Solana%20Wallet-SOL-111827?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Wallet" />
+
+  <p>
+    <code>46f2qSgcsAWhuY6RTayFubsywA1JHC6E8WBtHV1jGPUF</code>
+  </p>
+
+  <p>
+    🔎 Explorer Quick Link:
+    <a href="https://solscan.io/account/46f2qSgcsAWhuY6RTayFubsywA1JHC6E8WBtHV1jGPUF">Solscan</a>
+  </p>
+
+</div>
+
+---
+
 ## ⚙️ Tech Stack & Languages
 
 ### 💻 Main Languages
